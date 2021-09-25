@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    margin:0;
+    height:100%;
+    width:100%;
+}
+#nav-bar{
+    /* display: inline-block; */
+    position:fixed;
+    background-color: white;
+    width:100%;
+    top:0;
+    z-index: 10;
+    height:70px;
+}
+.card-header{
+    background-color: #14213D;
+}
+.card-header h3{
+    color: white;
+}
+.card-body{
+    background-color: #FCA311;
+    
+}
+.card-body .card-text p{
+    text-align: justify;
+}
+.class .Events .card-header{
+    background-color: #E5E5E5;
+}
+.class .Events .card-header h3{
+   color: black;
+}
+.class .row .col .card .card-header{
+    background-color: #E5E5E5;
+}
+.class .row .col .card .card-body{
+    background-color: #E5E5E5;
+}
+/* know more button */
+.class .row .col .card .card-body .button{
+    background-color: #FCA311;
+    color:white;
+    width:10px;
+    
+}
+
+/* gallery */
+.containerg .class{
+    margin:90px;
+}
+
+.container-fluid .img1{
+    height:100px;
+    width:100px;
+    float:left;
+    margin: 0.1px;
+
+}
+.container1 footer{
+    /* background-color: #FCA311; */
+    margin:90px;
+}
+.container1 ul li a{
+    text-decoration: none ;
+}
+.social{
+    display:flex;
+    width:40px;
+    flex-direction: column;
+    float:left;
+}
+.fluid-container{
+    margin:0;
+}
+.caption{
+    margin:0;
+}
